@@ -54,3 +54,5 @@ se muestra en la siguiente tabla:
 ----------------------------------------------------------
 
 Al final de cada fase de desarrollo, se generan gráficas que muestran el número de defectos de cada tipo encontrados en esa fase. 
+
+https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/104/2/TE%20264.pdf
